@@ -3,14 +3,22 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+1. clonar proyecto
+   ```bash
+   git clone https://github.com/david578/Rutas_movil.git
 
-1. Install dependencies
+   ```
+2. dirigirse a la carpeta del proyecto
+   ```bash
+   cd Rutas_movil
+   ```
+3. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Start the app
 
    ```bash
    npx expo start
